@@ -1,8 +1,8 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1704729249
+::res://::1704800078
 icon.svg::CompressedTexture2D::6435153894176907575::1704722315::1704722351::1::::<><>::
 README.md::TextFile::-1::1704728547::0::1::::<><>::
-Sprite2D.gd::GDScript::-1::1704728124::0::1::::<>CharacterBody2D<>::
+Sprite2D.gd::GDScript::-1::1704733962::0::1::::<>CharacterBody2D<>::
 ::res://assets/::1704725238
 ::res://assets/alien_attack_assets/::1704725238
 ::res://assets/alien_attack_assets/audio/::1704725240
@@ -18,7 +18,7 @@ enemy_ship_2.png::CompressedTexture2D::8956333252208182935::1704725238::17047252
 orb.png::CompressedTexture2D::3857894322653119558::1704725238::1704725240::1::::<><>::
 player_ship.png::CompressedTexture2D::6466497665856514231::1704725238::1704725240::1::::<><>::
 rocket.png::CompressedTexture2D::1032567081125119136::1704725238::1704725240::1::::<><>::
-::res://scenes/::1704728128
-game.tscn::PackedScene::6488163459838921960::1704728128::0::1::::<><>::uid://cidi3v5k0npv::::res://assets/alien_attack_assets/textures/bg.png<>uid://b1rw51xb3k82t::::res://scenes/Player.tscn
-Player.tscn::PackedScene::4247815788979858589::1704728123::0::1::::<><>::res://Sprite2D.gd<>uid://cyeojigoei71d::::res://assets/alien_attack_assets/textures/player_ship.png
+::res://scenes/::1704733962
+game.tscn::PackedScene::6488163459838921960::1704733548::0::1::::<><>::uid://cidi3v5k0npv::::res://assets/alien_attack_assets/textures/bg.png<>uid://b1rw51xb3k82t::::res://scenes/Player.tscn
+Player.tscn::PackedScene::4247815788979858589::1704733962::0::1::::<><>::res://Sprite2D.gd<>uid://cyeojigoei71d::::res://assets/alien_attack_assets/textures/player_ship.png
 ::res://scripts/::1704725001

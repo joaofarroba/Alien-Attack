@@ -1,3 +1,4 @@
+res://scenes/rocket.tscn
+res://scripts/rocket.gd
 res://scenes/game.tscn
 res://scenes/Player.tscn
-res://Sprite2D.gd
